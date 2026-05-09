@@ -4,25 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data Science Master's graduate specializing in machine learning,
   statistical modeling, NLP, and data-driven decision making. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/nicholas-stirling-3839b172/">View My LinkedIn Profile</a> 
-
-# Author Information
-
-author:
-  name: "Nicholas Stirling"
   email: "nickrstirling@gmail.com"
-  github: "NStir87"
-  
-# Navigation / Collections
-collections:
-  projects:
-    output: true
+  <br><br>
+  <a href="https://www.linkedin.com/in/nicholas-stirling-3839b172/">View My LinkedIn Profile</a>
 
-# Markdown Settings
-markdown: kramdown
-highlighter: rouge
 
 # Plugins
 plugins:
