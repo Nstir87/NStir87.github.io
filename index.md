@@ -42,9 +42,7 @@ Areas of interest include:
 | ML Frameworks | Scikit-learn, TensorFlow, PyTorch |
 | Data Engineering | Pandas, NumPy, Spark |
 | Visualization | Tableau, Power BI, Matplotlib, Seaborn |
-| Cloud Platforms | AWS, Azure |
-| Databases | PostgreSQL, MySQL, MongoDB |
-| MLOps | Git, Docker, MLflow |
+| Databases | MySQL
 
 ---
 
