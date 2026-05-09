@@ -50,7 +50,7 @@ Areas of interest include:
 
 ## Featured Projects
 
-### 1. DSC670 Term Project – Customer Complaint Triage and Response Application
+### 1. Customer Complaint Triage and Response Application
 
 **Overview:**
 Developed an NLP-driven complaint triage pipeline designed for regulated financial environments. The system processes raw customer complaints and generates structured, auditable outputs including complaint classification, narrative summarization, and draft institutional responses.
@@ -70,7 +70,7 @@ Responsible AI, Explainability, Compliance Analytics, NLP
 
 ---
 
-### 2. DSC630 Project – At-Risk Student Predictive Model
+### 2. At-Risk Student Predictive Model
 
 **Overview:**
 Created a predictive analytics model to identify students at risk of problematic attendance patterns using behavioral, demographic, and academic indicators.
@@ -89,7 +89,7 @@ Python, Scikit-learn, Pandas, Predictive Modeling, Data Visualization
 Predictive Analytics, Educational Data Science, Classification Modeling
 
 ---
-### 3. DSC550 – Loan Data Mining and Model Training
+### 3. Loan Data Mining and Model Training
 
 **Overview:**
 Performed end-to-end data preparation and machine learning model development on loan datasets to compare classification performance across multiple algorithms.
