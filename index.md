@@ -49,39 +49,75 @@ Areas of interest include:
 ---
 
 # Work / Projects
-
-## Featured Projects
-
-### 1. LLM Fine-Tuning and Instruction Optimization
-
-**Overview:**
-Fine-tuned an open-source large language model using parameter-efficient fine-tuning techniques such as LoRA and QLoRA to improve task-specific instruction following.
+Conducted a nationwide data analysis examining the rise in childcare costs and the financial burden placed on families throughout the United States.
 
 **Skills & Technologies:**
-Python, Hugging Face Transformers, PEFT, LoRA, PyTorch, Google Colab
+Python, Tableau, Data Visualization, Statistical Analysis
 
 **Key Contributions:**
-- Built custom training datasets
-- Implemented model fine-tuning pipeline
-- Evaluated baseline vs tuned model performance
-- Optimized GPU memory usage for T4 environments
+- Analyzed childcare pricing trends across states
+- Visualized long-term cost increases
+- Connected economic burden trends to policy implications
+- Used data storytelling to support childcare reform discussions
 
-**GitHub Repository:**
-[Project Link](https://github.com/yourusername/project-repo)
+**Focus Areas:**
+Public Policy Analytics, Economic Data Analysis, Data Storytelling
 
 ---
 
-### 2. Responsible AI and LLM Guardrails
+### 6. TSA Complaint Analysis for Operational Risk Identification
 
 **Overview:**
-Developed a framework for evaluating and implementing LLM response filtering and guardrails using cloud-native AI governance tools.
+Analyzed TSA complaint trends to identify operational stress indicators, complaint concentration patterns, and emerging risk categories associated with potential regulatory exposure.
 
-images/
+**Skills & Technologies:**
+Python, Risk Analytics, Data Visualization, Trend Analysis
+
+**Key Contributions:**
+- Identified accelerated complaint growth categories
+- Evaluated operational stress indicators
+- Supported recommendations for audit prioritization
+- Developed risk-focused analytical insights for oversight allocation
+
+**Focus Areas:**
+Risk Analytics, Operational Intelligence, Regulatory Analytics
+
 ---
 
+### 7. Image Classification Using Convolutional Neural Networks (CNNs)
 
+**Overview:**
+Built and trained a convolutional neural network for image classification tasks and evaluated model performance using accuracy metrics and confusion matrices.
 
+**Skills & Technologies:**
+Python, TensorFlow, Keras, Deep Learning, CNNs
+
+**Key Contributions:**
+- Built CNN architectures for classification
+- Trained and validated image classification models
+- Generated confusion matrices and performance summaries
+- Evaluated classification accuracy and model behavior
+
+**Focus Areas:**
+Deep Learning, Computer Vision, Neural Networks
 
 ---
+
+### 8. DSC680 Project Series
+
+#### DSC680 Project 1
+
+Placeholder for advanced data science or machine learning project.
+
+#### DSC680 Project 2
+
+Placeholder for advanced data science or machine learning project.
+
+#### DSC680 Project 3
+
+Placeholder for advanced data science or machine learning project.
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
