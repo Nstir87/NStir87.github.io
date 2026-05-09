@@ -49,6 +49,90 @@ Areas of interest include:
 ---
 
 # Work / Projects
+
+## Featured Projects
+
+### 1. DSC670 Term Project – Customer Complaint Triage and Response Application
+
+**Overview:**
+Developed an NLP-driven complaint triage pipeline designed for regulated financial environments. The system processes raw customer complaints and generates structured, auditable outputs including complaint classification, narrative summarization, and draft institutional responses.
+
+**Skills & Technologies:**
+Python, NLP, Machine Learning, Prompt Engineering, Classification Models
+
+**Key Contributions:**
+- Built a complaint classification workflow
+- Developed automated complaint summarization
+- Designed explainable and auditable AI outputs
+- Focused on regulatory consistency and compliance alignment
+- Demonstrated operational applications for financial institutions
+
+**Focus Areas:**
+Responsible AI, Explainability, Compliance Analytics, NLP
+
+---
+
+### 2. DSC630 Project – At-Risk Student Predictive Model
+
+**Overview:**
+Created a predictive analytics model to identify students at risk of problematic attendance patterns using behavioral, demographic, and academic indicators.
+
+**Skills & Technologies:**
+Python, Scikit-learn, Pandas, Predictive Modeling, Data Visualization
+
+**Key Contributions:**
+- Performed feature engineering and exploratory data analysis
+- Built predictive classification models
+- Evaluated model performance metrics
+- Identified high-risk student indicators
+- Supported early intervention strategies for student retention
+
+**Focus Areas:**
+Predictive Analytics, Educational Data Science, Classification Modeling
+
+---
+### 3. DSC550 – Loan Data Mining and Model Training
+
+**Overview:**
+Performed end-to-end data preparation and machine learning model development on loan datasets to compare classification performance across multiple algorithms.
+
+**Skills & Technologies:**
+Python, Scikit-learn, KNN, Logistic Regression, Random Forest
+
+**Key Contributions:**
+- Applied min-max scaling for preprocessing
+- Built and evaluated KNN classifiers
+- Trained logistic regression and random forest models
+- Compared model accuracy and hyperparameter performance
+- Conducted model evaluation and optimization
+
+**Focus Areas:**
+Supervised Learning, Model Evaluation, Financial Analytics
+
+---
+
+### 4. Using Data to Improve MLB Attendance
+
+**Overview:**
+Analyzed attendance, event, and game-level data to identify patterns influencing Major League Baseball attendance and develop actionable business recommendations.
+
+**Skills & Technologies:**
+Python, Data Visualization, Statistical Analysis, Business Analytics
+
+**Key Contributions:**
+- Analyzed attendance trends across games and events
+- Identified drivers influencing fan turnout
+- Created business-focused analytical insights
+- Developed recommendations to improve attendance and engagement
+
+**Focus Areas:**
+Sports Analytics, Business Intelligence, Data Storytelling
+
+---
+
+### 5. Childcare Pricing Trends Across the United States
+
+**Overview:**
 Conducted a nationwide data analysis examining the rise in childcare costs and the financial burden placed on families throughout the United States.
 
 **Skills & Technologies:**
@@ -81,7 +165,6 @@ Python, Risk Analytics, Data Visualization, Trend Analysis
 
 **Focus Areas:**
 Risk Analytics, Operational Intelligence, Regulatory Analytics
-
 ---
 
 ### 7. Image Classification Using Convolutional Neural Networks (CNNs)
@@ -118,6 +201,80 @@ Placeholder for advanced data science or machine learning project.
 Placeholder for advanced data science or machine learning project.
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
