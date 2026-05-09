@@ -2,14 +2,11 @@
 layout: default
 title: Home
 ---
-
-# Your Name
-
 ## Data Scientist | Machine Learning Engineer | Analytics Professional
 
-Welcome to my professional portfolio. I recently completed my Master's degree in Data Science with a focus on machine learning, predictive analytics, NLP, cloud AI services, and applied statistical modeling.
+Welcome to my professional portfolio. I recently completed my Master's degree in Data Science with a focus on machine learning, predictive analytics, NLP, and applied statistical modeling.
 
-This portfolio highlights academic, research, and independent projects demonstrating experience with:
+This portfolio highlights academic and independent projects demonstrating experience with:
 
 - Python
 - SQL
@@ -17,7 +14,6 @@ This portfolio highlights academic, research, and independent projects demonstra
 - Deep Learning
 - NLP / LLMs
 - Data Visualization
-- Cloud AI Services
 - MLOps
 - Risk Analytics
 - Statistical Modeling
