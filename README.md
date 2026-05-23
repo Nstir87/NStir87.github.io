@@ -1,55 +1,160 @@
-## Developer Portfolio Landing Page Template
+# Nicholas Stirling
 
-### ⚠️ Project Discontinued ⚠️
+## Data Scientist | Machine Learning | AI & Risk Analytics
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+Recent Master's graduate in Data Science with experience developing machine learning models, NLP applications, predictive analytics solutions, and risk-focused data products. My work focuses on applying data science and AI techniques to solve operational, regulatory, and business challenges through explainable and actionable analytics.
 
 ---
 
-### Introduction
+## Portfolio Website
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+[View Portfolio Website](https://nstir87.github.io/)
 
-### Installation
+---
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+## Technical Skills
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+### Programming & Analytics
+- Python
+- SQL
+- R
+- Pandas
+- NumPy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Machine Learning & AI
+- Scikit-learn
+- TensorFlow
+- Keras
+- NLP
+- CNNs
+- Predictive Modeling
+- Classification Models
 
-### Markdown
+### Data Visualization
+- Tableau
+- Power BI
+- Matplotlib
+- Seaborn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cloud & Tools
+- Git
+- GitHub
+- Azure
+- Jupyter Notebook
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+# Featured Projects
 
-- Bulleted
-- List
+## Customer Complaint Triage and Response Application
+### NLP | Responsible AI | Financial Services
 
-1. Numbered
-2. List
+Developed an NLP-driven complaint processing pipeline capable of:
+- Complaint classification
+- Narrative summarization
+- Draft response generation
+- Explainable and auditable outputs
 
-**Bold** and _Italic_ and `Code` text
+The project focuses on operational consistency and regulatory alignment for financial institutions.
 
-[Link](url) and ![Image](src)
-```
+**Technologies:** Python, NLP, Machine Learning, Prompt Engineering
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Roadmap
+## At-Risk Student Predictive Model
+### Predictive Analytics | Education Data Science
 
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
+Built a predictive model identifying students at risk of problematic attendance patterns using:
+- Behavioral indicators
+- Demographic factors
+- Academic performance variables
 
-### References
+The project supports proactive intervention and retention strategies.
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+**Technologies:** Python, Scikit-learn, Pandas
+
+---
+
+## Loan Data Mining and Model Training
+### Classification Modeling | Financial Analytics
+
+Performed machine learning model development and evaluation using:
+- KNN
+- Logistic Regression
+- Random Forest
+
+Included preprocessing, scaling, hyperparameter evaluation, and performance comparison.
+
+**Technologies:** Python, Scikit-learn
+
+---
+
+## Using Data to Improve MLB Attendance
+### Business Analytics | Sports Analytics
+
+Analyzed attendance and event-level data to identify trends impacting MLB attendance and developed business recommendations to improve fan engagement.
+
+**Technologies:** Python, Data Visualization, Statistical Analysis
+
+---
+
+## Childcare Pricing Trends Across the United States
+### Public Policy Analytics | Data Storytelling
+
+Analyzed childcare pricing trends across the U.S. to highlight the growing financial burden on families and support data-informed policy discussions around childcare reform.
+
+**Technologies:** Python, Tableau
+
+---
+
+## TSA Complaint Analysis for Operational Risk Identification
+### Risk Analytics | Operational Intelligence
+
+Analyzed TSA complaint trends to identify:
+- Operational stress indicators
+- Emerging risk categories
+- Complaint concentration patterns
+
+Used findings to support recommendations for targeted oversight and audit prioritization.
+
+**Technologies:** Python, Data Visualization
+
+---
+
+# Areas of Interest
+
+- Machine Learning
+- NLP & LLM Applications
+- Responsible AI
+- Risk Analytics
+- Predictive Modeling
+- Data Engineering
+- AI Governance
+- Operational Intelligence
+
+---
+
+# Education
+
+**Master of Science in Data Science**  
+Recently Graduated
+
+---
+
+# Contact
+
+- LinkedIn: https://www.linkedin.com/in/nicholas-stirling-3839b172/
+- GitHub: https://github.com/Nstir87
+- Email: nickrstirling@gmail.com
+
+---
+
+# Future Development
+
+This portfolio will continue expanding with:
+- Additional machine learning projects
+- AI governance research
+- Cloud AI deployments
+- Interactive dashboards
+- Streamlit applications
+- End-to-end MLOps workflows
