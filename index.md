@@ -184,21 +184,56 @@ Deep Learning, Computer Vision, Neural Networks
 
 ---
 
-### 8. DSC680 Project Series
+### 8. Customer Complaint Segmentation
 
-#### DSC680 Project 1
+**Overview:**
+Built and trained a convolutional neural network for image classification tasks and evaluated model performance using accuracy metrics and confusion matrices.
 
-Placeholder for advanced data science or machine learning project.
+**Skills & Technologies:**
 
-#### DSC680 Project 2
 
-Placeholder for advanced data science or machine learning project.
+**Key Contributions:**
 
-#### DSC680 Project 3
 
-Placeholder for advanced data science or machine learning project.
+**Focus Areas:**
+
 
 ---
+
+### 9. Job Change Intention Drivers
+
+**Overview:**
+Employee turnover remains one of the most significant operational challenges facing technology organizations. This study analyzes workplace, psychological, and 
+organizational indicators associated with employees’ intent to change jobs. Statistical analysis, correlation analysis, Logistic Regression, and Random Forest classification 
+models were used to identify strong predictors of employee turnover intent.
+
+**Skills & Technologies:**
+
+
+**Key Contributions:**
+
+
+**Focus Areas:**
+
+
+---
+
+### 10. Real vs. Non-Disaster Tweets
+**Overview:**
+Built a machine learning pipeline capable of classifying tweets as either:
+• 1 → Real disaster
+• 0 → Not a real disaster
+This is a classic binary text classification problem within Natural Language Processing(NLP).
+
+**Skills & Technologies:**
+
+
+**Key Contributions:**
+
+
+**Focus Areas:**
+
+
 
 
 
