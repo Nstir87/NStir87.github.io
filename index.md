@@ -70,7 +70,7 @@ Responsible AI, Explainability, Compliance Analytics, NLP
 
 ---
 
-### 2. At-Risk Student Predictive Model
+### 2.  <a href="https://github.com/Nstir87/At-Risk-Student-Predictive-Model">At-Risk Student Predictive Model</a>
 
 **Overview:**
 Created a predictive analytics model to identify students at risk of problematic attendance patterns using behavioral, demographic, and academic indicators.
