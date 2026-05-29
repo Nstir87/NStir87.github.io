@@ -190,13 +190,14 @@ Deep Learning, Computer Vision, Neural Networks
 Built and trained a convolutional neural network for image classification tasks and evaluated model performance using accuracy metrics and confusion matrices.
 
 **Skills & Technologies:**
-
+Python, Pandas, NumPy, Regular Expressions (Regex)
 
 **Key Contributions:**
-
-
-**Focus Areas:**
-
+- Natural Language Processing
+- Text Analytics
+- Data Cleaning
+- Feature Engineering
+- Unsupervised Learning Concepts
 
 ---
 
@@ -208,13 +209,14 @@ organizational indicators associated with employees’ intent to change jobs. St
 models were used to identify strong predictors of employee turnover intent.
 
 **Skills & Technologies:**
-
+Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 **Key Contributions:**
-
-
-**Focus Areas:**
-
+- Workforce Analytics
+- Predictive Modeling
+- Classification
+- Feature Importance Analysis
+- Business Intelligence
 
 ---
 
@@ -226,12 +228,16 @@ Built a machine learning pipeline capable of classifying tweets as either:
 This is a classic binary text classification problem within Natural Language Processing(NLP).
 
 **Skills & Technologies:**
-
+Python, Pandas, Numpy, Scikit-Learn
 
 **Key Contributions:**
+- Natural Language Processing
+- Text Classification
+- Machine Learning
+- Feature Engineering
+- Model Evaluation
 
 
-**Focus Areas:**
 
 
 
