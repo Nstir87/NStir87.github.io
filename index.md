@@ -50,7 +50,7 @@ Areas of interest include:
 
 ## Featured Projects
 
-### 1. Customer Complaint Triage and Response Application
+### 1. <a href="https://github.com/Nstir87/Complaint-Triage-and-Response">Customer Complaint Triage and Response Application</a>
 
 **Overview:**
 Developed an NLP-driven complaint triage pipeline designed for regulated financial environments. The system processes raw customer complaints and generates structured, auditable outputs including complaint classification, narrative summarization, and draft institutional responses.
@@ -89,7 +89,7 @@ Python, Scikit-learn, Pandas, Predictive Modeling, Data Visualization
 Predictive Analytics, Educational Data Science, Classification Modeling
 
 ---
-### 3. Loan Data Mining and Model Training
+### 3. <a href="https://github.com/Nstir87/Loan-Data-Modeling">Loan Data Mining and Model Training</a>
 
 **Overview:**
 Performed end-to-end data preparation and machine learning model development on loan datasets to compare classification performance across multiple algorithms.
@@ -109,7 +109,7 @@ Supervised Learning, Model Evaluation, Financial Analytics
 
 ---
 
-### 4. Using Data to Improve MLB Attendance
+### 4. <a href="https://github.com/Nstir87/MLB-Attendance">Using Data to Improve MLB Attendance</a>
 
 **Overview:**
 Analyzed attendance, event, and game-level data to identify patterns influencing Major League Baseball attendance and develop actionable business recommendations.
@@ -128,7 +128,7 @@ Sports Analytics, Business Intelligence, Data Storytelling
 
 ---
 
-### 5. Childcare Pricing Trends Across the United States
+### 5. <a href="https://github.com/Nstir87/Childcare-Pricing-Trends">Childcare Pricing Trends Across the United States</a>
 
 **Overview:**
 Conducted a nationwide data analysis examining the rise in childcare costs and the financial burden placed on families throughout the United States.
@@ -147,7 +147,7 @@ Public Policy Analytics, Economic Data Analysis, Data Storytelling
 
 ---
 
-### 6. TSA Complaint Analysis for Operational Risk Identification
+### 6. <a href="https://github.com/Nstir87/TSA-Complaint-Analysis">TSA Complaint Analysis for Operational Risk Identification</a>
 
 **Overview:**
 Analyzed TSA complaint trends to identify operational stress indicators, complaint concentration patterns, and emerging risk categories associated with potential regulatory exposure.
@@ -165,7 +165,7 @@ Python, Risk Analytics, Data Visualization, Trend Analysis
 Risk Analytics, Operational Intelligence, Regulatory Analytics
 ---
 
-### 7. Image Classification Using Convolutional Neural Networks (CNNs)
+### 7. <a href="https://github.com/Nstir87/CNN-Image-Classification">Image Classification Using Convolutional Neural Networks (CNNs)</a>
 
 **Overview:**
 Built and trained a convolutional neural network for image classification tasks and evaluated model performance using accuracy metrics and confusion matrices.
@@ -184,7 +184,7 @@ Deep Learning, Computer Vision, Neural Networks
 
 ---
 
-### 8. Customer Complaint Segmentation
+### 8. <a href="https://github.com/Nstir87/Customer-Complaint-Segmentation">Customer Complaint Segmentation</a>
 
 **Overview:**
 Built and trained a convolutional neural network for image classification tasks and evaluated model performance using accuracy metrics and confusion matrices.
@@ -200,7 +200,7 @@ Built and trained a convolutional neural network for image classification tasks 
 
 ---
 
-### 9. Job Change Intention Drivers
+### 9. <a href="https://github.com/Nstir87/Job-Change-Intention">Job Change Intention Drivers</a>
 
 **Overview:**
 Employee turnover remains one of the most significant operational challenges facing technology organizations. This study analyzes workplace, psychological, and 
@@ -218,7 +218,7 @@ models were used to identify strong predictors of employee turnover intent.
 
 ---
 
-### 10. Real vs. Non-Disaster Tweets
+### 10. <a href="https://github.com/Nstir87/Real-vs-non-disaster-tweets">Real vs. Non-Disaster Tweets</a>
 **Overview:**
 Built a machine learning pipeline capable of classifying tweets as either:
 • 1 → Real disaster
